@@ -6,6 +6,9 @@
 <a href="https://www.facebook.com/in/md-abrar-jahin-9a026018b/">
   <img align="left" alt="Abrar Jahin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://devpost.com/Abrar2652?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <img align="left" alt="Abrar Jahin's Devpost Portfolio" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/dev-post-555431.png" />
+</a>
 <a href="https://www.instagram.com/abrar.jahin.2652/">
   <img align="left" alt="Abrar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -36,7 +39,7 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.coder52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.coder52@gmail.com)](mailto:abrar.jahin.coder52@gmail.com)
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📝 [Resume](https://drive.google.com/file/d/1y2J9opPZP-iAEYOObDThMKxc-RQztX5G/view?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -46,16 +49,15 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="50" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/lockup-610x66/autocad-lockup-610x66.png"></code>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="50" src="https://i.pinimg.com/originals/ef/23/41/ef2341240d5d5b842f79ef0493d6b0e2.png"></code>
+<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGEMUhe7nP1JgczKViTDO-iXHeYcyuCzvng&usqp=CAU"></code>
 
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
