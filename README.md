@@ -45,7 +45,13 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 
-![Abrar's github stats](https://github-readme-stats.vercel.app/api?username=Abrar2652&show_icons=true&hide_border=true)
+![Abrar's github stats]
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abrar2652&theme=tokyonight&show_icons=true" />
+
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2652&theme=tokyonight&show_icons=true" />
+
+</p>
 
 ⭐️ From [Abrar2652](https://github.com/Abrar2652)
 
