@@ -60,7 +60,7 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abrar2652&repo=Road-Friction-Forecasting" />
 </a>
 
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
+<a href="https://github.com/Abrar2652/Detecting-sentiments-of-a-quote">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abrar2652&repo=Detecting-sentiments-of-a-quote" />
 </a>
 
