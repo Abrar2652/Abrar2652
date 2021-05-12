@@ -30,8 +30,8 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 - 🌱 I’m currently learning Natural Language Processing and Machine Learning Models; 
 - 👯 I’m looking to collaborate on Data Analytics and Machine Learning research projects 🤝;
 - 🤔 I’m looking for help with the research paper publication in the international journal, I am in need of collaboration;
-- 💬 Ask me about anything, I am happy tohelp;
-- ⚡️ Fun-Fact: besides programming, I'm a lead guitarist & music composer. I also love painting.
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: Besides programming, I'm a lead guitarist & music composer. I also love painting. [My Youtube Channel - Abrar Jahin](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA/)
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
