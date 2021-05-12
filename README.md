@@ -32,8 +32,10 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
+- 📫 How to reach me: 
+[![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
+[![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.coder52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.coder52@gmail.com)](mailto:abrar.jahin.coder52@gmail.com)
 - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 **Languages and Tools:**  
