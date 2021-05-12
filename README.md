@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Md. Abrar Jahin, goes by Abrar!
 
 <a href="https://www.linkedin.com/in/md-abrar-jahin-9a026018b/">
-  <img align="left" alt="Md. Abrar Jahin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Md. Abrar Jahin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/in/md-abrar-jahin-9a026018b/">
   <img align="left" alt="Abrar Jahin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -20,14 +20,14 @@
 <br />
 <br />
 
-Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at Khulna University if Engineering and Technology (KUET). I'm a Research Intern [@UiT-The Arctic University of Norway](https://en.uit.no/). The most interesting fact is that besides programming, I'm a lead guitarist & music composer. I also love painting. 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
+- 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road reseach project](http://www.dit4bears.org/about-the-project-43252540);
+- 🌱 I’m currently learning Machine Learning; 
 - 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
