@@ -23,7 +23,7 @@
 <br />
 <br />
 
-Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at Khulna University if Engineering and Technology (KUET). I'm a Research Intern [@UiT-The Arctic University of Norway](https://en.uit.no/). 
+Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/). I'm a Research Intern at [UiT-The Arctic University of Norway](https://en.uit.no/). 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
