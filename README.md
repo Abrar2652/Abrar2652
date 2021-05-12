@@ -20,18 +20,18 @@
 <br />
 <br />
 
-Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at Khulna University if Engineering and Technology (KUET). I'm a Research Intern [@UiT-The Arctic University of Norway](https://en.uit.no/). The most interesting fact is that besides programming, I'm a lead guitarist & music composer. I also love painting. 
+Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at Khulna University if Engineering and Technology (KUET). I'm a Research Intern [@UiT-The Arctic University of Norway](https://en.uit.no/). 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road reseach project](http://www.dit4bears.org/about-the-project-43252540);
-- 🌱 I’m currently learning Machine Learning; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
+- 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road research project](http://www.dit4bears.org/about-the-project-43252540);
+- 🌱 I’m currently learning Natural Language Processing and Machine Learning Models; 
+- 👯 I’m looking to collaborate on Data Analytics and Machine Learning research projects 🤝;
+- 🤔 I’m looking for help with the research paper publication in the international journal, I am in need of collaboration;
+- 💬 Ask me about anything, I am happy tohelp;
+- ⚡️ Fun-Fact: besides programming, I'm a lead guitarist & music composer. I also love painting.
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
