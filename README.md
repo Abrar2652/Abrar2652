@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Abrar!](https://abhisheknaidu.tech) 
+### Hey 👋, I'm Md. Abrar Jahin, goes by Abrar!
 
 <a href="https://www.linkedin.com/in/md-abrar-jahin-9a026018b/">
   <img align="left" alt="Abrar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -56,8 +56,8 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 ⭐️ From [Abrar2652](https://github.com/Abrar2652)
 
 
-<a href="https://github.com/abhisheknaiidu/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
+<a href="https://github.com/Abrar2652/Road-Friction-Forecasting">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abrar2652&repo=Road-Friction-Forecasting" />
 </a>
 
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
