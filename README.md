@@ -9,8 +9,8 @@
 <a href="https://www.instagram.com/abrar.jahin.2652/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.codechef.com/users/abhisheknaidu">
-  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://codeforces.com/profile/Abrar2652">
+  <img align="left" alt="Abrar's Codeforces profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 <a href="https://twitter.com/AbrarJa02766068">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
