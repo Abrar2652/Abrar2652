@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Abrar!](https://abhisheknaidu.tech) 
+### Hey 👋, I'm [Abrar!](https://abhisheknaidu.tech) 
 
 <a href="https://www.linkedin.com/in/md-abrar-jahin-9a026018b/">
   <img align="left" alt="Abrar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Hi, I'm Md. Abrar Jahin, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -45,9 +45,9 @@ Hi, I'm Md. Abrar Jahin, a Full Stack Developer 🚀 from India, currently, I'm 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Abrar's github stats](https://github-readme-stats.vercel.app/api?username=Abrar2652&show_icons=true&hide_border=true)
 
-⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
+⭐️ From [Abrar2652](https://github.com/Abrar2652)
 
 
 <a href="https://github.com/abhisheknaiidu/A-POP">
