@@ -78,7 +78,3 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 </a>
 
 
-<a href="https://github.com/Abrar2652/Detecting-sentiments-of-a-quote">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abrar2652&repo=Detecting-sentiments-of-a-quote" />
-</a>
-
