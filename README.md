@@ -39,7 +39,7 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.coder52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.coder52@gmail.com)](mailto:abrar.jahin.coder52@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1y2J9opPZP-iAEYOObDThMKxc-RQztX5G/view?usp=sharing)
+<!--- - 📝 [Resume](https://drive.google.com/file/d/1y2J9opPZP-iAEYOObDThMKxc-RQztX5G/view?usp=sharing) --->
 
 **Languages and Tools:**  
 
