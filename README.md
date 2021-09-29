@@ -23,13 +23,13 @@
 <br />
 <br />
 
-Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/). I'm a Research Intern at [UiT-The Arctic University of Norway](https://en.uit.no/). 
+Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/). I'm a former Research Intern at [UiT-The Arctic University of Norway](https://en.uit.no/). 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road research project](http://www.dit4bears.org/about-the-project-43252540);
+<!--- - 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road research project](http://www.dit4bears.org/about-the-project-43252540); --->
 - 🌱 I’m currently learning Natural Language Processing and Machine Learning Models; 
 - 👯 I’m looking to collaborate on Data Analytics and Machine Learning research projects 🤝;
 - 🤔 I’m looking for help with the research paper publication in the international journal, I am in need of a collaboration;
