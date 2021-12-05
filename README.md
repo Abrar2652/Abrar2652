@@ -23,7 +23,7 @@
 <br />
 <br />
 
-Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/). I'm a former Research Intern at [UiT-The Arctic University of Norway](https://en.uit.no/). 
+Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/) as well as a Research Intern at [Okinawa Institute of Science and Technology (OIST) Graduate University](https://www.oist.jp/) in the [Physics and Biology Unit](https://www.oist.jp/groups/physics-and-biology-unit-jonathan-miller). I'm a former Research Intern at [UiT-The Arctic University of Norway](https://en.uit.no/). 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -31,10 +31,10 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 
 <!--- - 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road research project](http://www.dit4bears.org/about-the-project-43252540); --->
 - 🌱 I’m currently learning Natural Language Processing and Machine Learning Models; 
-- 👯 I’m looking to collaborate on Data Analytics and Machine Learning research projects 🤝;
-- 🤔 I’m looking for help with the research paper publication in the international journal, I am in need of a collaboration;
+- 👯 I’m looking forward to collaborating on Data Analytics and Machine Learning research projects 🤝;
+- 🤔 I’m currently working on a Bioinformatics project under Professor Jonathan Miller;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Besides programming, I'm a lead guitarist & music composer. I also love painting. This is [My Youtube Channel - Abrar Jahin](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA/) where I upload my guitar covers;
+- ⚡️ Fun-Fact: Besides programming, I'm a lead guitarist & music composer. I also love painting. This is [My YouTube Channel - Abrar Jahin](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA/) where I upload my guitar covers;
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
