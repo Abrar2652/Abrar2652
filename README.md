@@ -54,7 +54,7 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="50" src="https://i.pinimg.com/originals/ef/23/41/ef2341240d5d5b842f79ef0493d6b0e2.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGEMUhe7nP1JgczKViTDO-iXHeYcyuCzvng&usqp=CAU"></code>
-<code><img height="50" src="https://w7.pngwing.com/pngs/928/416/png-transparent-solidworks-simulation-logo-computer-aided-design-solidworks-corp-technology-electronics-text-logo-thumbnail.png"></code>
+<code><img height="50" src="https://www.nicepng.com/png/full/352-3525787_solidworks-logo-png-transparent-solidworks-logo.png"></code>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png"></code>
