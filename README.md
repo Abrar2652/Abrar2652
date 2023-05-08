@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/md-abrar-jahin-9a026018b/">
   <img align="left" alt="Md. Abrar Jahin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/in/md-abrar-jahin-9a026018b/">
+<a href="https://web.facebook.com/abrar.jahin.2652/">
   <img align="left" alt="Abrar Jahin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://devpost.com/Abrar2652?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
