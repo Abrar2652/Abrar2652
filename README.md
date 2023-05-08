@@ -23,7 +23,7 @@
 <br />
 <br />
 
-Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/) as well as a Research Intern at [Okinawa Institute of Science and Technology (OIST) Graduate University](https://www.oist.jp/) in the [Physics and Biology Unit](https://www.oist.jp/groups/physics-and-biology-unit-jonathan-miller). I'm a former Research Intern at [UiT-The Arctic University of Norway](https://en.uit.no/). 
+Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 from Bangladesh, currently pursuing BSc in Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/) as well as a Visiting Research Student (2023-Present)) at [Okinawa Institute of Science and Technology (OIST) Graduate University](https://www.oist.jp/) in the [Physics and Biology Unit](https://www.oist.jp/groups/physics-and-biology-unit-jonathan-miller). I'm a former Research Intern at OIST (2021-2022) and [UiT-The Arctic University of Norway](https://en.uit.no/) (2021). 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
