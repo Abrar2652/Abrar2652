@@ -3,11 +3,17 @@
 <a href="https://www.linkedin.com/in/md-abrar-jahin-9a026018b/">
   <img align="left" alt="Md. Abrar Jahin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.researchgate.net/profile/Md-Abrar-Jahin-2/">
+  <img align="left" alt="Md. Abrar Jahin's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a>
 <a href="https://web.facebook.com/abrar.jahin.2652/">
   <img align="left" alt="Abrar Jahin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://devpost.com/Abrar2652?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
   <img align="left" alt="Abrar Jahin's Devpost Portfolio" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/dev-post-555431.png" />
+</a>
+<a href="https://stackoverflow.com/users/13590227/md-abrar-jahin/">
+  <img align="left" alt="Md. Abrar Jahin's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.instagram.com/abrar.jahin.2652/">
   <img align="left" alt="Abrar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -27,7 +33,8 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+---
+**Talking about Personal Stuff:**
 
 <!--- - 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road research project](http://www.dit4bears.org/about-the-project-43252540); --->
 - 🌱 I’m currently learning Natural Language Processing and Machine Learning Models; 
@@ -41,6 +48,7 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.coder52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.coder52@gmail.com)](mailto:abrar.jahin.coder52@gmail.com)
 <!--- - 📝 [Resume](https://drive.google.com/file/d/1y2J9opPZP-iAEYOObDThMKxc-RQztX5G/view?usp=sharing) --->
 
+---
 **Languages and Tools:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -61,7 +69,7 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
+---
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Abrar's github stats
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abrar2652&theme=tokyonight&show_icons=true" />
@@ -70,6 +78,10 @@ Hi, I'm Md. Abrar Jahin, a Data Science and Machine Learning Enthusiast 🚀 fro
 
 </p>
 
+---
+[![](https://visitcount.itsvg.in/api?id=Abrar2652&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+---
 ⭐️ From [Abrar2652](https://github.com/Abrar2652)
 
 
