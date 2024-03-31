@@ -29,7 +29,7 @@
 <br />
 <br />
 
-Hi, I'm Md Abrar Jahin, an AI Researcher and Multidisciplinary Scientist 🚀 from Bangladesh, obtained B.Sc. Eng. in Industrial & Production Engineering from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/). I'm currently working as a Visiting Researcher (2024-Present)) at [Okinawa Institute of Science and Technology (OIST) Graduate University](https://www.oist.jp/) in the [Physics and Biology Unit](https://www.oist.jp/groups/physics-and-biology-unit-jonathan-miller). I'm a former Research Intern at OIST (2021-2022) and [UiT-The Arctic University of Norway](https://en.uit.no/) (2021). I also got the opportunity as a Visiting Research Student (2023-2024) at OIST.
+Hi, I'm Md Abrar Jahin, an AI Researcher and Multidisciplinary Scientist 🚀 from Bangladesh who obtained a B.Sc. Eng. in Industrial & Production Engineering from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/). I'm currently working as a Visiting Researcher (2024-Present)) at [Okinawa Institute of Science and Technology (OIST) Graduate University](https://www.oist.jp/) in the [Physics and Biology Unit](https://www.oist.jp/groups/physics-and-biology-unit-jonathan-miller). I'm a former Research Intern at OIST (2021-2022) and [UiT-The Arctic University of Norway](https://en.uit.no/) (2021). I also got the opportunity as a Visiting Research Student (2023-2024) at OIST.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -37,15 +37,15 @@ Hi, I'm Md Abrar Jahin, an AI Researcher and Multidisciplinary Scientist 🚀 fr
 **Talking about Personal Stuff:**
 
 <!--- - 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road research project](http://www.dit4bears.org/about-the-project-43252540); --->
-- 🌱 I’m currently learning Natural Language Processing and Machine Learning Models; 
-- 👯 I’m looking forward to collaborating on Data Analytics and Machine Learning research projects 🤝;
-- 🤔 I’m currently working on a Bioinformatics project under Professor Jonathan Miller;
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning Physics-Informed Neural Networks and Conformal Prediction Models; 
+- 👯 I’m looking forward to collaborating on Machine Learning and Deep Learning-based research projects 🤝;
+- 🤔 I’m currently a potential candidate for the USA doctoral programs (Fall'25);
+- 💬 Ask me about anything; I am happy to help;
 - ⚡️ Fun-Fact: Besides programming, I'm a lead guitarist & music composer. I also love painting. This is [My YouTube Channel - Abrar Jahin](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA/) where I upload my guitar covers;
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
-[![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.coder52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.coder52@gmail.com)](mailto:abrar.jahin.coder52@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mdabrar.jahin@oist.jp-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdabrar.jahin@oist.jp)](mailto:mdabrar.jahin@oist.jp)
 <!--- - 📝 [Resume](https://drive.google.com/file/d/1y2J9opPZP-iAEYOObDThMKxc-RQztX5G/view?usp=sharing) --->
 
 ---
