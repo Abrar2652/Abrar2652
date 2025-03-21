@@ -41,7 +41,7 @@ Hi, I'm Md Abrar Jahin, an AI Researcher and Multidisciplinary Scientist 🚀 fr
 - 👯 I’m looking forward to collaborating on Machine Learning and Deep Learning-based research projects 🤝;
 - 🤔 I’m currently a potential candidate for the USA doctoral programs (Fall'25);
 - 💬 Ask me about anything; I am happy to help;
-- ⚡️ Fun-Fact: Besides programming, I'm a lead guitarist & music composer. I also love painting. This is [My YouTube Channel - Abrar Jahin](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA/) where I upload my guitar covers;
+- ⚡️ Fun-Fact: Besides programming, I'm a lead guitarist & music composer. I also love painting. This is [My YouTube Channel - Md Abrar Jahin](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA/) where I upload my guitar covers;
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
