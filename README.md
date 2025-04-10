@@ -39,9 +39,9 @@ I earned my **B.Sc. in Industrial & Production Engineering** from the Department
 **Talking about Personal Stuff:**
 
 <!--- - 👨🏽‍💻 I’m currently working on [DIT4BEARs Smart Road research project](http://www.dit4bears.org/about-the-project-43252540); --->
+<!--- 🤔 I’m currently a potential candidate for the USA doctoral programs (Fall'25); --->
 - 🌱 I’m currently learning QML and GNN Models; 
 - 👯 I’m looking forward to collaborating on efficient DL, QML, & GNN-based research projects 🤝;
-<!--- 🤔 I’m currently a potential candidate for the USA doctoral programs (Fall'25); --->
 - 💬 Ask me about anything; I am happy to help;
 - ⚡️ Fun-Fact: Besides programming, I'm a lead guitarist & music composer. I also love painting. This is [My YouTube Channel - Md Abrar Jahin](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA/) where I upload my guitar covers;
 - 📫 How to reach me: 
