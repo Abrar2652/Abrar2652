@@ -30,8 +30,6 @@
 <br />
 
 Hi, I'm **Md Abrar Jahin**, a CS PhD student at the *[Thomas Lord Department of Computer Science, Viterbi School of Engineering](https://www.cs.usc.edu/)*, **[University of Southern California (USC)](https://www.usc.edu/)**. I am an AI Researcher at *[Center on Knowledge Graphs](https://www.isi.edu/centers/knowledge-graphs/)* at the **[Information Sciences Institute (ISI)](https://www.isi.edu/)**.
-I earned my **B.Sc. in Industrial & Production Engineering** from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/). I am also affiliated as a **Lead Researcher** at [Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/) in Bangladesh. Previously, I was a **Visiting Researcher** (March 2024 – March 2025) at the [Okinawa Institute of Science and Technology (OIST) Graduate University](https://www.oist.jp/) in the [Physics and Biology Unit](https://www.oist.jp/research/research-units/pbu/members). I was also a **Research Intern** at OIST (2021–2022) and [UiT – The Arctic University of Norway](https://en.uit.no/) (2021). Additionally, I had the opportunity to be a **Visiting Research Student** (2023–2024) at OIST.
-
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
