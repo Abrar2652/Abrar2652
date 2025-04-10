@@ -46,8 +46,8 @@ I earned my **B.Sc. in Industrial & Production Engineering** from the Department
 - ⚡️ Fun-Fact: Besides programming, I'm a lead guitarist & music composer. I also love painting. This is [My YouTube Channel - Md Abrar Jahin](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA/) where I upload my guitar covers;
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-abrar.jahin.2652@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrar.jahin.2652@gmail.com)](mailto:abrar.jahin.2652@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-jahin1811035@stud.kuet.ac.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin1811035@stud.kuet.ac.bd)](mailto:jahin1811035@stud.kuet.ac.bd)
-[![Gmail Badge](https://img.shields.io/badge/-mdabrar.jahin@oist.jp-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdabrar.jahin@oist.jp)](mailto:mdabrar.jahin@oist.jp)
+[![Gmail Badge](https://img.shields.io/badge/-jahin@usc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahin@usc.edu)](mailto:jahin@usc.edu)
+
 <!--- - 📝 [Resume](https://drive.google.com/file/d/1y2J9opPZP-iAEYOObDThMKxc-RQztX5G/view?usp=sharing) --->
 
 ---
